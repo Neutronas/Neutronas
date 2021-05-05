@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Lukas Ružauskas - @Neutronas
+- 💼 Systems Analyst for Dassault Systemes and React/NestJS developer for a hobbyist group PPM.
+- 🎓 M.S. of Information Systems Engineering and B.S. of Information Systems.
 - 👀 I’m interested in software development, in particular web and mobile development.
 - 🌱 I’m constantly learning various new technologies that are used in the most innovative countries.
 - 💞️ I'm looking forward to join any hobbyist team that are doing some fun projects together!
