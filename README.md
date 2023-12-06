@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Lukas Ružauskas - @Neutronas
-- 💼 Systems Analyst for Dassault Systemes
-- 🎓 M.S. of Information Systems Engineering and B.S. of Information Systems.
-- 👀 I’m interested in software engineering, in particular web and mobile development.
-- 🌱 I’m constantly learning various new technologies that are used in the most innovative countries.
-- 💞️ I'm looking forward to join any hobbyist team that are doing some fun projects together!
-- 📫 You can reach me via: Email - nequadora@gmail.com, Discord - NeuTronas#8057
+# 👋 Hello World! I'm Lukas Ružauskas - @Neutronas
+
+## 💼 Systems Analyst for Dassault Systemes
+
+### 🎓 Education
+- M.S. in Information Systems Engineering
+- B.S. in Information Systems
+
+## 👀 What Fires Me Up
+Passionate about software engineering, especially in the realms of web and mobile development.
+
+## 🌱 Always Learning
+I thrive on constantly exploring new technologies, staying at the forefront of innovation.
+
+## 💞️ Join Me in the Journey
+Excited to collaborate with hobbyist teams working on fun and exciting projects!
+
+## 🚀 Current Projects
+- **Project A:** Crafting a user-friendly mobile app for daily productivity.
+- **Project B:** Contributing to an open-source web development initiative.
+
+## 📫 Let's Connect!
+- **Email:** nequadora@gmail.com
+- **Discord:** neutronas
+- **LinkedIn:** [Lukas Ružauskas](https://www.linkedin.com/in/lukas-ruzauskas/)
+
 
 <!---
 Neutronas/Neutronas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
